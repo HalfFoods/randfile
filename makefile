@@ -10,3 +10,4 @@ run:
 clean:
 	rm *.o
 	rm program
+	rm output.txt
